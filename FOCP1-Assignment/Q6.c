@@ -1,4 +1,4 @@
-//C program to print a binary pyramid pattern
+//C program that allows the user to convert between Binary and Decimal systems 
 #include <stdio.h>
 #include <math.h>
 
